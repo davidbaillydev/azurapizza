@@ -368,13 +368,13 @@ h1, h2, h3, h4, h5, h6 {
 #hero .carousel-content {
   text-align: center;
 }
-#hero h2 {
+#hero h1 {
   color: #fff;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
 }
-#hero h2 span {
+#hero h1 span {
   color: #ffb03b;
 }
 #hero p {
@@ -450,7 +450,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 @media (max-width: 768px) {
-  #hero h2 {
+  #hero h1 {
     font-size: 28px;
   }
 }
