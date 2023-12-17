@@ -598,8 +598,7 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  /* min-height: 400px; */
-  min-height: 800px;
+  min-height: 400px;
   position: relative;
 }
 .about .play-btn {
