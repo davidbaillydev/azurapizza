@@ -3,7 +3,7 @@
 
 setTimeout(function () {
     $(".modal:not(.auto-off)").modal("show");
-},10000);
+},50000);
 
 (function($) {
     //For demo purpose adding positions to modal for preview
